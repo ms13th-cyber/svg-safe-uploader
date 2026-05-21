@@ -2,8 +2,8 @@
 /**
  * Plugin Name: SVG Safe Uploader
  * Description: SVGファイルのアップロードを許可し、安全にサニタイズします。
- * Version: 1.0.0
- * Tested up to: 6.9.4
+ * Version: 1.0.1
+ * Tested up to: 7.0.0
  * Requires PHP: 8.3.23
  * Author: masato shibuya(Image-box Co., Ltd.)
  */

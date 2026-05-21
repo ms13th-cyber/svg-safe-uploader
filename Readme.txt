@@ -2,9 +2,9 @@
 Contributors: masato shibuya(Image-box Co., Ltd.)
 Tags: svg, upload, security, sanitizer, media
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 7.0.0
 Requires PHP: 8.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,6 +35,9 @@ WordPress標準では制限されているSVGファイルのアップロード�
 1. メディアライブラリ：SVGファイルが他の画像と同様にプレビュー表示されます。
 
 == Changelog ==
+
+= 1.0.1 =
+* Wordpress7.0.0での動作確認。
 
 = 1.0.0 =
 * 初版リリース。
